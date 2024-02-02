@@ -1,0 +1,6 @@
+﻿  Tick-Tock.cpp
+C:\Users\HP\source\repos\Tick-Tock\Tick-Tock\Tick-Tock.cpp(41,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\HP\source\repos\Tick-Tock\Tick-Tock\Tick-Tock.cpp(40,10): message : while compiling class template member function 'void Matrix<int>::fillWithRandom(void)'
+C:\Users\HP\source\repos\Tick-Tock\Tick-Tock\Tick-Tock.cpp(126,31): message : see the first reference to 'Matrix<int>::fillWithRandom' in 'main'
+C:\Users\HP\source\repos\Tick-Tock\Tick-Tock\Tick-Tock.cpp(117,29): message : see reference to class template instantiation 'Matrix<int>' being compiled
+  Tick-Tock.vcxproj -> C:\Users\HP\source\repos\Tick-Tock\x64\Debug\Tick-Tock.exe
